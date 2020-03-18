@@ -1,0 +1,27 @@
+env:
+  browser: true
+
+extends:
+  - standard
+  - plugin:vue/recommended
+
+plugins: 
+  -  standard
+  -  vue
+
+rules:
+  no-new:
+    - warn
+
+  no-return-assign:
+    - warn
+
+  no-irregular-whitespace:
+    - warn
+
+  handle-callback-err:
+    - warn
+
+  vue/max-attributes-per-line:
+    - error
+    - singleline: 3
