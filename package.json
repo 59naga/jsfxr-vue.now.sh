@@ -16,7 +16,7 @@
     "eslint-plugin-vue-libs": "^4.0.0",
     "howler": "^2.1.3",
     "jsfxr": "https://github.com/mneubrand/jsfxr",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue-global-events": "^1.1.2"
   },
